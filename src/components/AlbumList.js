@@ -1,6 +1,5 @@
 import React from "react";
 import AlbumCard from "./AlbumCard";
-import { albums } from "../data/albums";
 
 function AlbumList() {
   return (
